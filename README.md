@@ -26,7 +26,7 @@ Open terminal and type:
 ### Result :
 
 **Input**
-![alt text](/img/test_2.png "Input image")<br>
+![alt text](test_2.png)<br>
 **Output**<br>
 ![alt text](output.png "Output image")
 
