@@ -14,7 +14,7 @@ It will be awesome if you run this code in <a href="https://www.continuum.io/dow
 
 ### Run
 Open terminal and type:
-- git clone https://github.com/bodhwani/Detect-HandWrittenDigits.git
+- git clone https://github.com/varshith701005/Detect-HandWrittenDigits.git
 - cd Detect-HandWrittenDigits
 - Create a empty folder MNIST_data
 > If want to train model(running for the first time):
